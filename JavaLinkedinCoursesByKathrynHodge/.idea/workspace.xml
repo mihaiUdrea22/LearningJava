@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baafe385-c61c-46db-8a1e-fe12ac375504" name="Changes" comment="Functions in java chapter" />
+    <list default="true" id="baafe385-c61c-46db-8a1e-fe12ac375504" name="Changes" comment="Functions in java chapter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,15 +50,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "JavaLinkedinCourseByKathrynHodge",
     "last_opened_file_path": "C:/1_MihaiUdrea_docs/LearningJavaCoursesAndBooks/LearningJava/JavaLinkedinCoursesByKathrynHodge",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "CodeWithMe",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExponetialExerc">
+  <component name="RunManager" selected="Application.SumTest">
     <configuration name="ExponetialExerc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionInJava.ExponetialExerc" />
       <module name="JavaLinkedinCoursesByKathrynHodge" />
@@ -144,6 +150,8 @@
       <workItem from="1683205668360" duration="62000" />
       <workItem from="1683205736357" duration="106000" />
       <workItem from="1683205910443" duration="289000" />
+      <workItem from="1683206328023" duration="567000" />
+      <workItem from="1683206922402" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="Contol flow and debugging chapter">
       <created>1683193539843</created>
