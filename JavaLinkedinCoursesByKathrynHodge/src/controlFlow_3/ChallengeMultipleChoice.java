@@ -11,8 +11,6 @@ public class ChallengeMultipleChoice {
         String choiceTwo = "300.000 km/s";
         String choiceThree = "250.000 km/s";
 
-        String correctAnswer = choiceTwo;
-
         System.out.println(question);
         System.out.println("Choose one answer from below:");
         System.out.println("a: " + choiceOne);
@@ -25,7 +23,7 @@ public class ChallengeMultipleChoice {
             String userInput = userInp.next();
 
             if (userInput.equals("b")) {
-                System.out.println("Your answer is right. Speed of light has: " + correctAnswer + ". Congrats!");
+                System.out.println("Your answer is right. Speed of light has: " + choiceTwo + ". Congrats!");
                 answerIsWrong = false;
             } else {
                 System.out.println("Yout answer is wrong. Choose again");
