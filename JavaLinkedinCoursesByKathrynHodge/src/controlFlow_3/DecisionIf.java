@@ -10,6 +10,12 @@ public class DecisionIf {
         int inputtedNum = scanner.nextInt();
         System.out.println(inputtedNum);
 
+        if(inputtedNum < 5){
+            System.out.println("Enjoy the good luck");
+        } else {
+            System.out.println("the number it is less than 5");
+        }
+
 
     }
 
