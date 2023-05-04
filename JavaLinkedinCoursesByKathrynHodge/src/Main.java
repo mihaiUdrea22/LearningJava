@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 import classesInJava.StudentProfile;
 import classesInJava.Triangle;
+=======
+import java.util.Scanner;
+>>>>>>> 6135ecb055e74031bc107b9c8010a734ecd8dec2
 
 public class Main {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         /*int studentAge = 15;
+=======
+        int studentAge = 15;
+>>>>>>> 6135ecb055e74031bc107b9c8010a734ecd8dec2
         double studentGPA = 3.45;
 
         boolean hasPerfectAttendance = true;
@@ -27,6 +35,7 @@ public class Main {
         studentGPA = input.nextDouble();
         System.out.println(studentFirstName + " " + studentLastName + " now has a GPA of " + studentGPA);
 
+<<<<<<< HEAD
 */
 
         Triangle triangleA = new Triangle(15,8,15,8,17);
@@ -44,6 +53,11 @@ public class Main {
                 2023,4.76,"Bsc");*/
 
         System.out.println("Student1 expected graduation year was "+ student1.expectedYearToGraduate + " but now is " + student1.incrementStudentGraduateYear());
+=======
+
+
+
+>>>>>>> 6135ecb055e74031bc107b9c8010a734ecd8dec2
 
     }
 
